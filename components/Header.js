@@ -5,10 +5,13 @@ import {Link} from '../routes';
 
 export default () => {
   return (
-    <Menu style={{marginTop: '15px'}}>
+    <Menu style={{marginTop: '10px'}}>
       <Link route="/">
         <a className="item">
-          <img src={"http://localhost:3000/assets/logo.png"} alt="logo"/>
+          <img
+            src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/logo.png"
+            alt="logo"
+          />
         </a>
       </Link>
 

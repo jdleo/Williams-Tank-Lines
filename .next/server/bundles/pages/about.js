@@ -67,7 +67,7 @@ module.exports =
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -217,7 +217,7 @@ var _jsxFileName = "/Users/j/williams/components/Layout.js";
 
 /***/ }),
 
-/***/ "./pages/index.js":
+/***/ "./pages/about.js":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -225,7 +225,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("react");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_Layout__ = __webpack_require__("./components/Layout.js");
-var _jsxFileName = "/Users/j/williams/pages/index.js";
+var _jsxFileName = "/Users/j/williams/pages/about.js";
 
 
 /* harmony default export */ __webpack_exports__["default"] = (function () {
@@ -239,7 +239,7 @@ var _jsxFileName = "/Users/j/williams/pages/index.js";
       fileName: _jsxFileName,
       lineNumber: 7
     }
-  }, "This is the home page"));
+  }, "This is the about page"));
 });
 
 /***/ }),
@@ -253,10 +253,10 @@ module.exports = routes;
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__("./pages/index.js");
+module.exports = __webpack_require__("./pages/about.js");
 
 
 /***/ }),
@@ -290,4 +290,4 @@ module.exports = require("semantic-ui-react");
 /***/ })
 
 /******/ });
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=about.js.map

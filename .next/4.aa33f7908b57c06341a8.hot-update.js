@@ -16,7 +16,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
 /* harmony default export */ __webpack_exports__["a"] = (function () {
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["b" /* Menu */], {
     style: {
-      marginTop: '15px'
+      marginTop: '10px'
     },
     __source: {
       fileName: _jsxFileName,
@@ -35,7 +35,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
       lineNumber: 10
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("img", {
-    src: "../assets/logo.png",
+    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/logo.png",
     alt: "logo",
     __source: {
       fileName: _jsxFileName,
@@ -45,55 +45,55 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
     position: "right",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 18
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__routes__["Link"], {
     route: "/about",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 19
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     className: "item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17
+      lineNumber: 20
     }
   }, "About")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__routes__["Link"], {
     route: "/employees",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 25
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     className: "item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 26
     }
   }, "Employee Links")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__routes__["Link"], {
     route: "/terminals",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28
+      lineNumber: 31
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     className: "item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 32
     }
   }, "Terminals")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2__routes__["Link"], {
     route: "/careers",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 37
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
     className: "item",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 38
     }
   }, "Careers"))));
 });
@@ -101,4 +101,4 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
 /***/ })
 
 })
-//# sourceMappingURL=4.302ea825bb3381604993.hot-update.js.map
+//# sourceMappingURL=4.aa33f7908b57c06341a8.hot-update.js.map
