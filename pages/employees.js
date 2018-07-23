@@ -1,7 +1,10 @@
 import React from 'react';
+import Layout from '../components/Layout';
 
 export default () => {
   return (
-    <h1>This is the employees page</h1>
+    <Layout>
+      employee links page
+    </Layout>
   );
 };
