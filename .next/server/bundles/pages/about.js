@@ -67,7 +67,7 @@ module.exports =
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 3);
+/******/ 	return __webpack_require__(__webpack_require__.s = 5);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -287,7 +287,7 @@ var _jsxFileName = "/Users/j/williams/components/Layout.js";
 
 /***/ }),
 
-/***/ "./pages/index.js":
+/***/ "./pages/about.js":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -295,74 +295,21 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__("react");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_Layout__ = __webpack_require__("./components/Layout.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__ = __webpack_require__("semantic-ui-react");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_semantic_ui_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__);
-var _jsxFileName = "/Users/j/williams/pages/index.js";
+var _jsxFileName = "/Users/j/williams/pages/about.js";
 
 
-
-var description = ["The purpose of Williams Tank Lines is to create the most responsive, reliable customer focused transportation service organization available.", " It is the company's desire to provide service and dependability and to consistently maintain positive experiences for both customers and employees, promoting safety, profitability, and loyalty."];
 /* harmony default export */ __webpack_exports__["default"] = (function () {
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__components_Layout__["a" /* default */], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 6
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
-    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/homeImg.png",
-    rounded: true,
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("h1", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 7
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"], {
-    fluid: true,
-    color: "red",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 15
-    }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"].Content, {
-    description: description,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    }
-  })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Header"], {
-    as: "h4",
-    color: "yellow",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 19
-    }
-  }, "Services"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"].Group, {
-    size: "tiny",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 23
-    }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
-    src: src,
-    rounded: true,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24
-    }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
-    src: src,
-    rounded: true,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25
-    }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
-    src: src,
-    rounded: true,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
-    }
-  })));
+  }, "This is the about page"));
 });
 
 /***/ }),
@@ -376,10 +323,10 @@ module.exports = routes;
 
 /***/ }),
 
-/***/ 3:
+/***/ 5:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__("./pages/index.js");
+module.exports = __webpack_require__("./pages/about.js");
 
 
 /***/ }),
@@ -413,4 +360,4 @@ module.exports = require("semantic-ui-react");
 /***/ })
 
 /******/ });
-//# sourceMappingURL=index.js.map
+//# sourceMappingURL=about.js.map

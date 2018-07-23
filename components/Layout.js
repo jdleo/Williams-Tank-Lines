@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from './Header';
+import Footer from './Footer';
 import {Container} from 'semantic-ui-react';
 import Head from 'next/head';
 
@@ -14,6 +15,7 @@ export default props => {
       </Head>
       <Header/>
       {props.children}
+      <Footer/>
     </Container>
   );
 };
