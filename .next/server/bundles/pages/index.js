@@ -302,65 +302,136 @@ var _jsxFileName = "/Users/j/williams/pages/index.js";
 
 
 var description = ["The purpose of Williams Tank Lines is to create the most responsive, reliable customer focused transportation service organization available.", " It is the company's desire to provide service and dependability and to consistently maintain positive experiences for both customers and employees, promoting safety, profitability, and loyalty."];
+var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 12
+  }
+}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Icon"], {
+  name: "star",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 13
+  }
+}), "  We believe that the ability to operate safely and to succeed depends on quality training. Every driver at Williams Tank Lines participates in a training program and is paired off with another driver that acts as a trainer for a few weeks to ensure the driver has the adequate training needed."), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 17
+  }
+}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Icon"], {
+  name: "bullhorn",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 18
+  }
+}), "  All drivers participate in a four-day training class before they are able to work in our trucks. Drivers receive training in a vast variety of specifics, including hazardous materials, security, defensive driving, hours of service, loading and unloading procedures, and rollover prevention."), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 22
+  }
+}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Icon"], {
+  name: "certificate",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23
+  }
+}), "  Drivers also receive a recertification orientation class every two years to ensure that our drivers have the most up to date information to be able to do their job effectively and efficient in the safest way possible."), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 27
+  }
+}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Icon"], {
+  name: "universal access",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 28
+  }
+}), "  Drivers also attend mandatory safety meetings in their terminal of work. This allows new information to be spread quickly and allows for any questions that drivers may have to be answered. These safety meetings occur at different times of the day so all drivers are able to attend.")];
 /* harmony default export */ __webpack_exports__["default"] = (function () {
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__components_Layout__["a" /* default */], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 35
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/homeImg.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13
+      lineNumber: 36
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"], {
     fluid: true,
     color: "red",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15
+      lineNumber: 38
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"].Content, {
     description: description,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
+      lineNumber: 39
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Header"], {
-    as: "h4",
+    as: "h2",
+    color: "yellow",
+    style: {
+      marginTop: '40px'
+    },
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 42
+    }
+  }, "Service"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"].Group, {
+    size: "medium",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 46
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
+    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg1.png",
+    rounded: true,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 47
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
+    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg2.png",
+    rounded: true,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 48
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
+    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg3.png",
+    rounded: true,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 49
+    }
+  })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Header"], {
+    as: "h2",
+    color: "yellow",
+    style: {
+      marginTop: '40px'
+    },
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 52
+    }
+  }, "Dependability"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"], {
+    fluid: true,
     color: "yellow",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 19
+      lineNumber: 56
     }
-  }, "Services"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"].Group, {
-    size: "tiny",
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"].Content, {
+    description: description2,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
-    }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
-    src: src,
-    rounded: true,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 24
-    }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
-    src: src,
-    rounded: true,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 25
-    }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
-    src: src,
-    rounded: true,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
+      lineNumber: 57
     }
   })));
 });
