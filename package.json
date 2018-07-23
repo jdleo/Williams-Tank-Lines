@@ -4,7 +4,10 @@
   "description": "trucking company",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "author": "John Leonardo",
   "license": "ISC",
