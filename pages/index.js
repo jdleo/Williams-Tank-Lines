@@ -1,10 +1,11 @@
 import React from 'react';
 import Layout from '../components/Layout';
+import {Image} from 'semantic-ui-react';
 
 export default () => {
   return (
     <Layout>
-      <h1>This is the home page</h1>
+      <Image src='https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/homeImg.png' rounded />
     </Layout>
   );
 };

@@ -5,7 +5,7 @@ import Head from 'next/head';
 
 export default props => {
   return (
-    <Container>
+    <Container textAlign='center'>
       <Head>
         <link
           rel="stylesheet"
