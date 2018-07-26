@@ -163,7 +163,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     style: (_ref2 = {
       'margin': 'auto',
       'width': '100%',
-      'height': '200px',
+      'height': '300px',
       'position': 'relative',
       'background': '#f7971e'
     }, _defineProperty(_ref2, "background", '-webkit-linear-gradient(to right, #f7971e, #ffd200)'), _defineProperty(_ref2, "background", 'linear-gradient(to right, #f7971e, #ffd200)'), _ref2),
@@ -176,12 +176,11 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       'position': 'relative',
       'float': 'left',
       'top': '50%',
-      'margin-left': '20%',
-      'margin-right': '20%',
+      'margin-left': '50%',
       'transform': 'translate(-50%, -50%)',
       'color': 'white',
       'line-height': '5px',
-      'font-size': '10px'
+      'font-size': '14px'
     },
     __source: {
       fileName: _jsxFileName,
@@ -212,4 +211,4 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
 /***/ })
 
 })
-//# sourceMappingURL=4.04ab4e5ad1e86f5b73ae.hot-update.js.map
+//# sourceMappingURL=4.4816fcf0592ce656a7fd.hot-update.js.map

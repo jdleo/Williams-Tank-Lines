@@ -495,7 +495,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     style: (_ref2 = {
       'margin': 'auto',
       'width': '100%',
-      'height': '200px',
+      'height': '300px',
       'position': 'relative',
       'background': '#f7971e'
     }, _defineProperty(_ref2, "background", '-webkit-linear-gradient(to right, #f7971e, #ffd200)'), _defineProperty(_ref2, "background", 'linear-gradient(to right, #f7971e, #ffd200)'), _ref2),
@@ -511,8 +511,8 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       'margin-left': '50%',
       'transform': 'translate(-50%, -50%)',
       'color': 'white',
-      'line-height': '1px',
-      'font-size': '11px'
+      'line-height': '5px',
+      'font-size': '14px'
     },
     __source: {
       fileName: _jsxFileName,

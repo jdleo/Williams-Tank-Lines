@@ -80,7 +80,7 @@ export default () => {
       <div style={{
           'margin':'auto',
           'width': '100%',
-          'height': '200px',
+          'height': '300px',
           'position': 'relative',
           'background': '#f7971e',  /* fallback for old browsers */
           'background': '-webkit-linear-gradient(to right, #f7971e, #ffd200)',  /* Chrome 10-25, Safari 5.1-6 */
@@ -93,8 +93,8 @@ export default () => {
               'margin-left': '50%',
               'transform': 'translate(-50%, -50%)',
                'color': 'white',
-               'line-height': '1px',
-               'font-size': '11px'
+               'line-height': '5px',
+               'font-size': '14px'
             }}>
             {description2}
           </p>
