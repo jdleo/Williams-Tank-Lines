@@ -1,11 +1,11 @@
 import React from 'react';
-import {Menu} from 'semantic-ui-react';
+import {Menu, Header} from 'semantic-ui-react';
 import {Link} from '../routes';
 
 
 export default () => {
   return (
-    <Menu style={{marginTop: '10px'}}>
+    <Menu pointing secondary style={{marginTop: '10px'}}>
       <Link route="/">
         <a className="item">
           <img
@@ -15,28 +15,42 @@ export default () => {
         </a>
       </Link>
 
+      <Link route="/">
+        <a className="item">
+          EST. 1976
+        </a>
+      </Link>
+
       <Menu.Menu position="right">
         <Link route="/about">
           <a className="item">
-            About
+            <Header as='h4' color='grey'>
+              About
+            </Header>
           </a>
         </Link>
 
         <Link route="/employees">
           <a className="item">
-            Employee Links
+            <Header as='h4' color='grey'>
+              Employee Links
+            </Header>
           </a>
         </Link>
 
         <Link route="/terminals">
           <a className="item">
-            Terminals
+            <Header as='h4' color='grey'>
+              Terminals
+            </Header>
           </a>
         </Link>
 
         <Link route="/careers">
           <a className="item">
-            Careers
+            <Header as='h4' color='grey'>
+              Careers
+            </Header>
           </a>
         </Link>
       </Menu.Menu>
