@@ -80,7 +80,7 @@ export default () => {
       <div style={{
           'margin':'auto',
           'width': '100%',
-          'height': '300px',
+          'height': '350px',
           'position': 'relative',
           'background': '#f7971e',  /* fallback for old browsers */
           'background': '-webkit-linear-gradient(to right, #f7971e, #ffd200)',  /* Chrome 10-25, Safari 5.1-6 */
