@@ -51,8 +51,8 @@ export default () => {
           <p style={{
               'position': 'absolute',
                'top': '30%',
-               'padding-right': '200px',
-               'padding-left': '200px',
+               'margin-left': '20%',
+               'margin-right': '20%',
                'color': 'white',
                'line-height': '25px',
                'font-size': '20px'
