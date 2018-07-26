@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '../components/Layout';
-import {Image, Card, Header, Icon} from 'semantic-ui-react';
+import {Image, Card, Header, Icon, Grid} from 'semantic-ui-react';
 
 const description = [
   "The purpose of Williams Tank Lines is to create the most responsive, reliable customer focused transportation service organization available.",
@@ -33,14 +33,34 @@ const description2 = [
 export default () => {
   return (
     <Layout>
-      <Image
-        src='https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/homeImg.png'
-        style={{'margin':'auto', 'width': '100%'}}
-      />
+      <div>
+        <Image
+          src='https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/homeImg.png'
+          style={{'margin':'auto', 'width': '100%'}}
+        />
+      </div>
+      <div style={{
+          'margin':'auto',
+          'width': '100%',
+          'height': '200px',
+          'position': 'relative',
+          'background': '#ED213A',  /* fallback for old browsers */
+          'background': '-webkit-linear-gradient(to right, #93291E, #ED213A)',  /* Chrome 10-25, Safari 5.1-6 */
+          'background': 'linear-gradient(to right, #93291E, #ED213A)' /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+          }}>
+          <p style={{
+              'position': 'absolute',
+               'top': '30%',
+               'padding-right': '200px',
+               'padding-left': '200px',
+               'color': 'white',
+               'line-height': '25px',
+               'font-size': '20px'
+            }}>
+            {description}
+          </p>
 
-      <Card fluid color='red'>
-        <Card.Content description={description} />
-      </Card>
+        </div>
 
       <Header as='h2' color='yellow' style={{marginTop:'40px'}}>
         Service

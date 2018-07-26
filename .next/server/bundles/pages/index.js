@@ -343,6 +343,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_semantic_ui_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__);
 var _jsxFileName = "/Users/j/williams/pages/index.js";
 
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+
 
 
 var description = ["The purpose of Williams Tank Lines is to create the most responsive, reliable customer focused transportation service organization available.", " It is the company's desire to provide service and dependability and to consistently maintain positive experiences for both customers and employees, promoting safety, profitability, and loyalty."];
@@ -392,10 +395,17 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
   }
 }), "  Drivers also attend mandatory safety meetings in their terminal of work. This allows new information to be spread quickly and allows for any questions that drivers may have to be answered. These safety meetings occur at different times of the day so all drivers are able to attend.")];
 /* harmony default export */ __webpack_exports__["default"] = (function () {
+  var _ref;
+
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__components_Layout__["a" /* default */], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 35
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 36
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/homeImg.png",
@@ -405,22 +415,35 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 37
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"], {
-    fluid: true,
-    color: "red",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 41
-    }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"].Content, {
-    description: description,
+  })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    style: (_ref = {
+      'margin': 'auto',
+      'width': '100%',
+      'height': '200px',
+      'position': 'relative',
+      'background': '#ED213A'
+    }, _defineProperty(_ref, "background", '-webkit-linear-gradient(to right, #93291E, #ED213A)'), _defineProperty(_ref, "background", 'linear-gradient(to right, #93291E, #ED213A)'), _ref),
     __source: {
       fileName: _jsxFileName,
       lineNumber: 42
     }
-  })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Header"], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+    style: {
+      'position': 'absolute',
+      'top': '30%',
+      'padding-right': '200px',
+      'padding-left': '200px',
+      'color': 'white',
+      'line-height': '25px',
+      'font-size': '20px'
+    },
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 51
+    }
+  }, description)), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Header"], {
     as: "h2",
     color: "yellow",
     style: {
@@ -428,34 +451,34 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 65
     }
   }, "Service"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"].Group, {
     size: "medium",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
+      lineNumber: 69
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg1.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 50
+      lineNumber: 70
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg2.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
+      lineNumber: 71
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg3.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
+      lineNumber: 72
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Header"], {
     as: "h2",
@@ -465,20 +488,20 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55
+      lineNumber: 75
     }
   }, "Dependability"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"], {
     fluid: true,
     color: "yellow",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59
+      lineNumber: 79
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"].Content, {
     description: description2,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 60
+      lineNumber: 80
     }
   })));
 });
