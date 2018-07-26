@@ -49,10 +49,11 @@ export default () => {
           'background': 'linear-gradient(to right, #93291E, #ED213A)' /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
           }}>
           <p style={{
-              'position': 'absolute',
-               'top': '30%',
-               'margin-left': '20%',
-               'margin-right': '20%',
+              'position': 'relative',
+              'float': 'left',
+              'top': '50%',
+              'margin-left': '50%',
+              'transform': 'translate(-50%, -50%)',
                'color': 'white',
                'line-height': '25px',
                'font-size': '20px'

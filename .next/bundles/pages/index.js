@@ -41811,10 +41811,11 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
     style: {
-      'position': 'absolute',
-      'top': '30%',
-      'margin-left': '20%',
-      'margin-right': '20%',
+      'position': 'relative',
+      'float': 'left',
+      'top': '50%',
+      'margin-left': '50%',
+      'transform': 'translate(-50%, -50%)',
       'color': 'white',
       'line-height': '25px',
       'font-size': '20px'
@@ -41831,34 +41832,34 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 65
+      lineNumber: 66
     }
   }, "Service"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */].Group, {
     size: "medium",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 69
+      lineNumber: 70
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg1.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 70
+      lineNumber: 71
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg2.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 71
+      lineNumber: 72
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg3.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 72
+      lineNumber: 73
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Header */], {
     as: "h2",
@@ -41868,20 +41869,20 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 75
+      lineNumber: 76
     }
   }, "Dependability"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Card */], {
     fluid: true,
     color: "yellow",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 79
+      lineNumber: 80
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Card */].Content, {
     description: description2,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 80
+      lineNumber: 81
     }
   })));
 });
