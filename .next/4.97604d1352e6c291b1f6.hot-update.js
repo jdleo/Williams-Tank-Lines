@@ -165,8 +165,8 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       'width': '100%',
       'height': '200px',
       'position': 'relative',
-      'background': '#ED213A'
-    }, _defineProperty(_ref2, "background", '-webkit-linear-gradient(to right, #93291E, #ED213A)'), _defineProperty(_ref2, "background", 'linear-gradient(to right, #93291E, #ED213A)'), _ref2),
+      'background': '#f7971e'
+    }, _defineProperty(_ref2, "background", '-webkit-linear-gradient(to right, #f7971e, #ffd200)'), _defineProperty(_ref2, "background", 'linear-gradient(to right, #f7971e, #ffd200)'), _ref2),
     __source: {
       fileName: _jsxFileName,
       lineNumber: 80
@@ -179,8 +179,8 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       'margin-left': '50%',
       'transform': 'translate(-50%, -50%)',
       'color': 'white',
-      'line-height': '5px',
-      'font-size': '14px'
+      'line-height': '1px',
+      'font-size': '11px'
     },
     __source: {
       fileName: _jsxFileName,
@@ -211,4 +211,4 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
 /***/ })
 
 })
-//# sourceMappingURL=4.36127377dfcf5bb6680b.hot-update.js.map
+//# sourceMappingURL=4.97604d1352e6c291b1f6.hot-update.js.map

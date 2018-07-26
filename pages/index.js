@@ -82,9 +82,9 @@ export default () => {
           'width': '100%',
           'height': '200px',
           'position': 'relative',
-          'background': '#ED213A',  /* fallback for old browsers */
-          'background': '-webkit-linear-gradient(to right, #93291E, #ED213A)',  /* Chrome 10-25, Safari 5.1-6 */
-          'background': 'linear-gradient(to right, #93291E, #ED213A)' /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+          'background': '#f7971e',  /* fallback for old browsers */
+          'background': '-webkit-linear-gradient(to right, #f7971e, #ffd200)',  /* Chrome 10-25, Safari 5.1-6 */
+          'background': 'linear-gradient(to right, #f7971e, #ffd200)' /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
           }}>
           <p style={{
               'position': 'relative',
@@ -93,8 +93,8 @@ export default () => {
               'margin-left': '50%',
               'transform': 'translate(-50%, -50%)',
                'color': 'white',
-               'line-height': '5px',
-               'font-size': '10px'
+               'line-height': '1px',
+               'font-size': '11px'
             }}>
             {description2}
           </p>
