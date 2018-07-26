@@ -33,7 +33,10 @@ const description2 = [
 export default () => {
   return (
     <Layout>
-      <Image src='https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/homeImg.png' rounded />
+      <Image
+        src='https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/homeImg.png'
+        style={{'margin':'auto', 'width': '100%'}}
+      />
 
       <Card fluid color='red'>
         <Card.Content description={description} />

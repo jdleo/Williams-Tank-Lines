@@ -6,7 +6,7 @@ import Head from 'next/head';
 
 export default props => {
   return (
-    <Container textAlign='center'>
+    <div style={{'textAlign':'center'}}>
       <Head>
         <link
           rel="stylesheet"
@@ -16,6 +16,6 @@ export default props => {
       <Header/>
       {props.children}
       <Footer/>
-    </Container>
+    </div>
   );
 };

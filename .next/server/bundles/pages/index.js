@@ -254,8 +254,10 @@ var _jsxFileName = "/Users/j/williams/components/Layout.js";
 
 
 /* harmony default export */ __webpack_exports__["a"] = (function (props) {
-  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_3_semantic_ui_react__["Container"], {
-    textAlign: "center",
+  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    style: {
+      'textAlign': 'center'
+    },
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
@@ -355,7 +357,10 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/homeImg.png",
-    rounded: true,
+    style: {
+      'margin': 'auto',
+      'width': '100%'
+    },
     __source: {
       fileName: _jsxFileName,
       lineNumber: 36
@@ -365,13 +370,13 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     color: "red",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 41
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"].Content, {
     description: description,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39
+      lineNumber: 42
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Header"], {
     as: "h2",
@@ -381,34 +386,34 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
+      lineNumber: 45
     }
   }, "Service"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"].Group, {
     size: "medium",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46
+      lineNumber: 49
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg1.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
+      lineNumber: 50
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg2.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 48
+      lineNumber: 51
     }
   }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Image"], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg3.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 49
+      lineNumber: 52
     }
   })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Header"], {
     as: "h2",
@@ -418,20 +423,20 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
+      lineNumber: 55
     }
   }, "Dependability"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"], {
     fluid: true,
     color: "yellow",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56
+      lineNumber: 59
     }
   }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"].Content, {
     description: description2,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57
+      lineNumber: 60
     }
   })));
 });
