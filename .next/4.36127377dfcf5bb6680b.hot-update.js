@@ -22,7 +22,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     fileName: _jsxFileName,
     lineNumber: 12
   }
-}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Icon */], {
+}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Icon */], {
   name: "star",
   __source: {
     fileName: _jsxFileName,
@@ -33,7 +33,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     fileName: _jsxFileName,
     lineNumber: 17
   }
-}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Icon */], {
+}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Icon */], {
   name: "bullhorn",
   __source: {
     fileName: _jsxFileName,
@@ -44,7 +44,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     fileName: _jsxFileName,
     lineNumber: 22
   }
-}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Icon */], {
+}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Icon */], {
   name: "certificate",
   __source: {
     fileName: _jsxFileName,
@@ -55,7 +55,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
     fileName: _jsxFileName,
     lineNumber: 27
   }
-}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Icon */], {
+}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Icon */], {
   name: "universal access",
   __source: {
     fileName: _jsxFileName,
@@ -63,7 +63,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
   }
 }), "  Drivers also attend mandatory safety meetings in their terminal of work. This allows new information to be spread quickly and allows for any questions that drivers may have to be answered. These safety meetings occur at different times of the day so all drivers are able to attend.")];
 /* harmony default export */ __webpack_exports__["default"] = (function () {
-  var _ref;
+  var _ref, _ref2;
 
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__components_Layout__["a" /* default */], {
     __source: {
@@ -75,7 +75,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       fileName: _jsxFileName,
       lineNumber: 36
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Image */], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/homeImg.png",
     style: {
       'margin': 'auto',
@@ -112,7 +112,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       fileName: _jsxFileName,
       lineNumber: 51
     }
-  }, description)), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Header */], {
+  }, description)), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Header */], {
     as: "h2",
     color: "yellow",
     style: {
@@ -122,34 +122,34 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       fileName: _jsxFileName,
       lineNumber: 66
     }
-  }, "Service"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */].Group, {
+  }, "Service"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Image */].Group, {
     size: "medium",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 70
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Image */], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg1.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 71
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Image */], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg2.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 72
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Image */], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg3.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 73
     }
-  })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Header */], {
+  })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Header */], {
     as: "h2",
     color: "yellow",
     style: {
@@ -159,20 +159,34 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       fileName: _jsxFileName,
       lineNumber: 76
     }
-  }, "Dependability"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Card */], {
-    fluid: true,
-    color: "yellow",
+  }, "Dependability"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    style: (_ref2 = {
+      'margin': 'auto',
+      'width': '100%',
+      'height': '200px',
+      'position': 'relative',
+      'background': '#ED213A'
+    }, _defineProperty(_ref2, "background", '-webkit-linear-gradient(to right, #93291E, #ED213A)'), _defineProperty(_ref2, "background", 'linear-gradient(to right, #93291E, #ED213A)'), _ref2),
     __source: {
       fileName: _jsxFileName,
       lineNumber: 80
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Card */].Content, {
-    description: description2,
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+    style: {
+      'position': 'relative',
+      'float': 'left',
+      'top': '50%',
+      'margin-left': '50%',
+      'transform': 'translate(-50%, -50%)',
+      'color': 'white',
+      'line-height': '5px',
+      'font-size': '14px'
+    },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 81
+      lineNumber: 89
     }
-  })));
+  }, description2)));
 });
     (function (Component, route) {
       if(!Component) return
@@ -197,4 +211,4 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
 /***/ })
 
 })
-//# sourceMappingURL=4.e344c0605cc1b6110764.hot-update.js.map
+//# sourceMappingURL=4.36127377dfcf5bb6680b.hot-update.js.map

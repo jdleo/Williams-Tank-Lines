@@ -395,7 +395,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
   }
 }), "  Drivers also attend mandatory safety meetings in their terminal of work. This allows new information to be spread quickly and allows for any questions that drivers may have to be answered. These safety meetings occur at different times of the day so all drivers are able to attend.")];
 /* harmony default export */ __webpack_exports__["default"] = (function () {
-  var _ref;
+  var _ref, _ref2;
 
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__components_Layout__["a" /* default */], {
     __source: {
@@ -491,20 +491,34 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       fileName: _jsxFileName,
       lineNumber: 76
     }
-  }, "Dependability"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"], {
-    fluid: true,
-    color: "yellow",
+  }, "Dependability"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+    style: (_ref2 = {
+      'margin': 'auto',
+      'width': '100%',
+      'height': '200px',
+      'position': 'relative',
+      'background': '#ED213A'
+    }, _defineProperty(_ref2, "background", '-webkit-linear-gradient(to right, #93291E, #ED213A)'), _defineProperty(_ref2, "background", 'linear-gradient(to right, #93291E, #ED213A)'), _ref2),
     __source: {
       fileName: _jsxFileName,
       lineNumber: 80
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["Card"].Content, {
-    description: description2,
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
+    style: {
+      'position': 'relative',
+      'float': 'left',
+      'top': '50%',
+      'margin-left': '50%',
+      'transform': 'translate(-50%, -50%)',
+      'color': 'white',
+      'line-height': '5px',
+      'font-size': '10px'
+    },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 81
+      lineNumber: 89
     }
-  })));
+  }, description2)));
 });
 
 /***/ }),

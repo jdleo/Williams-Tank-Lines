@@ -77,9 +77,29 @@ export default () => {
         Dependability
       </Header>
 
-      <Card fluid color='yellow'>
-        <Card.Content description={description2} />
-      </Card>
+      <div style={{
+          'margin':'auto',
+          'width': '100%',
+          'height': '200px',
+          'position': 'relative',
+          'background': '#ED213A',  /* fallback for old browsers */
+          'background': '-webkit-linear-gradient(to right, #93291E, #ED213A)',  /* Chrome 10-25, Safari 5.1-6 */
+          'background': 'linear-gradient(to right, #93291E, #ED213A)' /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+          }}>
+          <p style={{
+              'position': 'relative',
+              'float': 'left',
+              'top': '50%',
+              'margin-left': '50%',
+              'transform': 'translate(-50%, -50%)',
+               'color': 'white',
+               'line-height': '5px',
+               'font-size': '10px'
+            }}>
+            {description2}
+          </p>
+
+        </div>
 
     </Layout>
   );
