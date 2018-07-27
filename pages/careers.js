@@ -257,7 +257,53 @@ class CareersComponent extends React.Component {
               </Button>
             </div>
             <Card.Group centered style={{'marginTop':'40px'}}>
-              clerical
+              <Card fluid>
+                <Card.Content>
+                  <Card.Header>Clerical Opportunities</Card.Header>
+                  <Card.Meta>
+                    <span className='summary'>General office duties such as customer service, filing, answering phones, faxing, making copies, scanning, preparing correspondences, process paperwork and other records</span>
+                  </Card.Meta>
+                  <Card.Description>
+                    <br/>
+                    <Header as='h4' color='grey'>
+                      Reasonable Accommodations
+                    </Header>
+                    To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. Reasonable Accommodations may be made to enable qualified individuals with disabilities to perform the essential function as tolerated by the individual.<br/>
+
+                    <br/>
+                    <Header as='h4' color='grey'>
+                      Essential Functions
+                    </Header>
+                    Perform general office duties such as operating office machines, handing paperwork, and sorting mail.<br/>
+                    Sort or classify information according to guidelines such as content, purpose, user criteria, or chronological, alphabetical, or numerical order.<br/>
+                    Scan or read incoming materials in order to determine how and where they should be classified or filed.<br/>
+                    Place materials into storage receptacles, such as file cabinets, boxes, bins, or drawers, according to classification and identification information.<br/>
+                    Using computer to audit electronic driver logs.<br/>
+                    Clean and organize office, empty all trash bins at the end of the day.<br/> Distribute correspondences to employees<br/>
+                    Know how to use Microsoft Office: Word, Excel, and Outlook.<br/>
+                    Know how to browse the Internet for relevant information to your job description.<br/>
+                    Perform Data Entry<br/>
+
+                    <br/>
+                    <Header as='h4' color='grey'>
+                      Position Qualifications
+                    </Header>
+                    Detail Oriented - Ability to pay attention to the minute details of a project or task.<br/>
+                    Organized - Possessing the trait of being organized or following a systematic method of performing a task.<br/>
+                    Time Management - Ability to utilize the available time to organize and complete work within given deadlines.<br/>
+                    Reliability - The trait of being dependable and trustworthy.<br/>
+                  </Card.Description>
+                </Card.Content>
+                <Card.Content extra>
+                  Send Resume and 3 year DMV printout along with pre-application questionaire to:<br/>
+                  Fax: 800-417-8036<br/>
+                  Email: employment@williamstanklines.com<br/>
+                  For Questions call:<br/>
+                  Phone: 209-944-5613 ext. 1000<br/>
+                  Please provide email address or phone number where you can be contacted<br/>
+
+                </Card.Content>
+              </Card>
             </Card.Group>
           </Container>
         </Layout>
