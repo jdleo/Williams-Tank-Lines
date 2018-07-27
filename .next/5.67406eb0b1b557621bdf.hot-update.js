@@ -14,7 +14,7 @@ var _jsxFileName = "/Users/j/williams/components/Footer.js";
 
 
 /* harmony default export */ __webpack_exports__["a"] = (function () {
-  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["g" /* Message */], {
+  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["f" /* Message */], {
     style: {
       marginTop: '70px'
     },
@@ -22,12 +22,12 @@ var _jsxFileName = "/Users/j/williams/components/Footer.js";
       fileName: _jsxFileName,
       lineNumber: 8
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["g" /* Message */].Header, {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["f" /* Message */].Header, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Header */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["b" /* Header */], {
     as: "h4",
     color: "red",
     __source: {
@@ -39,7 +39,7 @@ var _jsxFileName = "/Users/j/williams/components/Footer.js";
       fileName: _jsxFileName,
       lineNumber: 14
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["d" /* Icon */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Icon */], {
     name: "map pin",
     __source: {
       fileName: _jsxFileName,
@@ -50,7 +50,7 @@ var _jsxFileName = "/Users/j/williams/components/Footer.js";
       fileName: _jsxFileName,
       lineNumber: 15
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["d" /* Icon */], {
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Icon */], {
     name: "phone",
     __source: {
       fileName: _jsxFileName,
@@ -75,7 +75,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
 
 
 /* harmony default export */ __webpack_exports__["a"] = (function () {
-  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["f" /* Menu */], {
+  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["e" /* Menu */], {
     pointing: true,
     secondary: true,
     style: {
@@ -116,7 +116,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
       fileName: _jsxFileName,
       lineNumber: 19
     }
-  }, "EST. 1976")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["f" /* Menu */].Menu, {
+  }, "EST. 1976")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["e" /* Menu */].Menu, {
     position: "right",
     __source: {
       fileName: _jsxFileName,
@@ -134,7 +134,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
       fileName: _jsxFileName,
       lineNumber: 26
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Header */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["b" /* Header */], {
     as: "h4",
     color: "grey",
     __source: {
@@ -153,7 +153,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
       fileName: _jsxFileName,
       lineNumber: 34
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Header */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["b" /* Header */], {
     as: "h4",
     color: "grey",
     __source: {
@@ -172,7 +172,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
       fileName: _jsxFileName,
       lineNumber: 42
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Header */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["b" /* Header */], {
     as: "h4",
     color: "grey",
     __source: {
@@ -191,7 +191,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
       fileName: _jsxFileName,
       lineNumber: 50
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Header */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["b" /* Header */], {
     as: "h4",
     color: "grey",
     __source: {
@@ -200,81 +200,6 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
     }
   }, "Careers")))));
 });
-
-/***/ }),
-
-/***/ "./node_modules/semantic-ui-react/dist/es/elements/Container/Container.js":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_extends__ = __webpack_require__("./node_modules/semantic-ui-react/node_modules/@babel/runtime/helpers/extends.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_extends___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_extends__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_classnames__ = __webpack_require__("./node_modules/classnames/index.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_classnames___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_classnames__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types__ = __webpack_require__("./node_modules/semantic-ui-react/node_modules/prop-types/index.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react__ = __webpack_require__("./node_modules/react/index.js");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__lib__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/lib/index.js");
-
-
-
-
-
-/**
- * A container limits content to a maximum width.
- */
-
-function Container(props) {
-  var children = props.children,
-      className = props.className,
-      content = props.content,
-      fluid = props.fluid,
-      text = props.text,
-      textAlign = props.textAlign;
-  var classes = __WEBPACK_IMPORTED_MODULE_1_classnames___default()('ui', Object(__WEBPACK_IMPORTED_MODULE_4__lib__["A" /* useKeyOnly */])(text, 'text'), Object(__WEBPACK_IMPORTED_MODULE_4__lib__["A" /* useKeyOnly */])(fluid, 'fluid'), Object(__WEBPACK_IMPORTED_MODULE_4__lib__["D" /* useTextAlignProp */])(textAlign), 'container', className);
-  var rest = Object(__WEBPACK_IMPORTED_MODULE_4__lib__["r" /* getUnhandledProps */])(Container, props);
-  var ElementType = Object(__WEBPACK_IMPORTED_MODULE_4__lib__["q" /* getElementType */])(Container, props);
-  return __WEBPACK_IMPORTED_MODULE_3_react___default.a.createElement(ElementType, __WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_extends___default()({}, rest, {
-    className: classes
-  }), __WEBPACK_IMPORTED_MODULE_4__lib__["c" /* childrenUtils */].isNil(children) ? content : children);
-}
-
-Container.handledProps = ["as", "children", "className", "content", "fluid", "text", "textAlign"];
-Container.propTypes =  true ? {
-  /** An element type to render as (string or function). */
-  as: __WEBPACK_IMPORTED_MODULE_4__lib__["m" /* customPropTypes */].as,
-
-  /** Primary content. */
-  children: __WEBPACK_IMPORTED_MODULE_2_prop_types___default.a.node,
-
-  /** Additional classes. */
-  className: __WEBPACK_IMPORTED_MODULE_2_prop_types___default.a.string,
-
-  /** Shorthand for primary content. */
-  content: __WEBPACK_IMPORTED_MODULE_4__lib__["m" /* customPropTypes */].contentShorthand,
-
-  /** Container has no maximum width. */
-  fluid: __WEBPACK_IMPORTED_MODULE_2_prop_types___default.a.bool,
-
-  /** Reduce maximum width to more naturally accommodate text. */
-  text: __WEBPACK_IMPORTED_MODULE_2_prop_types___default.a.bool,
-
-  /** Align container text. */
-  textAlign: __WEBPACK_IMPORTED_MODULE_2_prop_types___default.a.oneOf(__WEBPACK_IMPORTED_MODULE_4__lib__["b" /* SUI */].TEXT_ALIGNMENTS)
-} : {};
-/* harmony default export */ __webpack_exports__["a"] = (Container);
-
-/***/ }),
-
-/***/ "./node_modules/semantic-ui-react/dist/es/elements/Container/index.js":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Container__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Container/Container.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__Container__["a"]; });
-
-
 
 /***/ }),
 
@@ -341,7 +266,7 @@ Container.propTypes =  true ? {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__collections_Grid_GridRow__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Grid/GridRow.js");
 /* unused harmony reexport GridRow */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__collections_Menu__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Menu/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_29__collections_Menu__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_29__collections_Menu__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__collections_Menu_MenuHeader__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Menu/MenuHeader.js");
 /* unused harmony reexport MenuHeader */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__collections_Menu_MenuItem__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Menu/MenuItem.js");
@@ -349,7 +274,7 @@ Container.propTypes =  true ? {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__collections_Menu_MenuMenu__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Menu/MenuMenu.js");
 /* unused harmony reexport MenuMenu */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__collections_Message__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Message/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_33__collections_Message__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_33__collections_Message__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__collections_Message_MessageContent__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Message/MessageContent.js");
 /* unused harmony reexport MessageContent */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__collections_Message_MessageHeader__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Message/MessageHeader.js");
@@ -381,23 +306,23 @@ Container.propTypes =  true ? {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_48__elements_Button_ButtonOr__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Button/ButtonOr.js");
 /* unused harmony reexport ButtonOr */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_49__elements_Container__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Container/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_49__elements_Container__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_49__elements_Container__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_50__elements_Divider__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Divider/index.js");
 /* unused harmony reexport Divider */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_51__elements_Flag__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Flag/index.js");
 /* unused harmony reexport Flag */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_52__elements_Header__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Header/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_52__elements_Header__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_52__elements_Header__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_53__elements_Header_HeaderContent__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Header/HeaderContent.js");
 /* unused harmony reexport HeaderContent */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_54__elements_Header_HeaderSubheader__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Header/HeaderSubheader.js");
 /* unused harmony reexport HeaderSubheader */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_55__elements_Icon__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Icon/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_55__elements_Icon__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_55__elements_Icon__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_56__elements_Icon_IconGroup__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Icon/IconGroup.js");
 /* unused harmony reexport IconGroup */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_57__elements_Image__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Image/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_57__elements_Image__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_57__elements_Image__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_58__elements_Image_ImageGroup__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Image/ImageGroup.js");
 /* unused harmony reexport ImageGroup */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_59__elements_Input__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Input/index.js");
@@ -525,7 +450,7 @@ Container.propTypes =  true ? {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_120__views_Advertisement__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/views/Advertisement/index.js");
 /* unused harmony reexport Advertisement */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_121__views_Card_Card__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/views/Card/Card.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_121__views_Card_Card__["a"]; });
+/* unused harmony reexport Card */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_122__views_Card_CardContent__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/views/Card/CardContent.js");
 /* unused harmony reexport CardContent */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_123__views_Card_CardDescription__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/views/Card/CardDescription.js");
@@ -923,7 +848,7 @@ Container.propTypes =  true ? {
 
 /***/ }),
 
-/***/ "./pages/index.js":
+/***/ "./pages/careers.js":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -932,185 +857,51 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_Layout__ = __webpack_require__("./components/Layout.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/index.js");
-var _jsxFileName = "/Users/j/williams/pages/index.js";
-
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+var _jsxFileName = "/Users/j/williams/pages/careers.js";
 
 
 
-
-var description = ["The purpose of Williams Tank Lines is to create the most responsive, reliable customer focused transportation service organization available.", " It is the company's desire to provide service and dependability and to consistently maintain positive experiences for both customers and employees, promoting safety, profitability, and loyalty."];
-var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 12
-  }
-}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Icon */], {
-  name: "star",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 13
-  }
-}), "  We believe that the ability to operate safely and to succeed depends on quality training. Every driver at Williams Tank Lines participates in a training program and is paired off with another driver that acts as a trainer for a few weeks to ensure the driver has the adequate training needed."), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 17
-  }
-}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Icon */], {
-  name: "bullhorn",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 18
-  }
-}), "  All drivers participate in a four-day training class before they are able to work in our trucks. Drivers receive training in a vast variety of specifics, including hazardous materials, security, defensive driving, hours of service, loading and unloading procedures, and rollover prevention."), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 22
-  }
-}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Icon */], {
-  name: "certificate",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 23
-  }
-}), "  Drivers also receive a recertification orientation class every two years to ensure that our drivers have the most up to date information to be able to do their job effectively and efficient in the safest way possible."), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 27
-  }
-}, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Icon */], {
-  name: "universal access",
-  __source: {
-    fileName: _jsxFileName,
-    lineNumber: 28
-  }
-}), "  Drivers also attend mandatory safety meetings in their terminal of work. This allows new information to be spread quickly and allows for any questions that drivers may have to be answered. These safety meetings occur at different times of the day so all drivers are able to attend.")];
 /* harmony default export */ __webpack_exports__["default"] = (function () {
-  var _ref, _ref2;
-
   return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__components_Layout__["a" /* default */], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 7
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
+    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careersImg.png",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 8
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["e" /* Image */], {
-    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/homeImg.png",
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Container */], {
     style: {
-      'margin': 'auto',
-      'width': '100%'
+      'marginTop': '40px'
     },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 9
     }
-  })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    style: (_ref = {
-      'margin': 'auto',
-      'width': '100%',
-      'height': '200px',
-      'position': 'relative',
-      'background': '#ED213A'
-    }, _defineProperty(_ref, "background", '-webkit-linear-gradient(to right, #93291E, #ED213A)'), _defineProperty(_ref, "background", 'linear-gradient(to right, #93291E, #ED213A)'), _ref),
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 42
-    }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
-    style: {
-      'position': 'relative',
-      'float': 'left',
-      'top': '50%',
-      'margin-left': '50%',
-      'transform': 'translate(-50%, -50%)',
-      'color': 'white',
-      'line-height': '25px',
-      'font-size': '20px'
-    },
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 51
-    }
-  }, description)), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Header */], {
-    as: "h2",
-    color: "yellow",
-    style: {
-      marginTop: '40px'
-    },
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 66
-    }
-  }, "Service"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["e" /* Image */].Group, {
-    divided: true,
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */].Group, {
     size: "medium",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 70
+      lineNumber: 10
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["e" /* Image */], {
-    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg1.png",
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
+    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/servicesImg2.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 71
+      lineNumber: 11
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["e" /* Image */], {
-    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg2.png",
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
+    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/servicesImg3.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 72
+      lineNumber: 12
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["e" /* Image */], {
-    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg3.png",
-    rounded: true,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 73
-    }
-  })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Header */], {
-    as: "h2",
-    color: "yellow",
-    style: {
-      marginTop: '40px'
-    },
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 76
-    }
-  }, "Dependability"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
-    style: (_ref2 = {
-      'margin': 'auto',
-      'width': '100%',
-      'height': '350px',
-      'position': 'relative',
-      'background': '#f7971e'
-    }, _defineProperty(_ref2, "background", '-webkit-linear-gradient(to right, #f7971e, #ffd200)'), _defineProperty(_ref2, "background", 'linear-gradient(to right, #f7971e, #ffd200)'), _ref2),
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 80
-    }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("p", {
-    style: {
-      'position': 'relative',
-      'float': 'left',
-      'top': '50%',
-      'margin-left': '50%',
-      'transform': 'translate(-50%, -50%)',
-      'color': 'white',
-      'line-height': '5px',
-      'font-size': '14px'
-    },
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 89
-    }
-  }, description2)));
+  }))));
 });
     (function (Component, route) {
       if(!Component) return
@@ -1128,11 +919,11 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
           next.router.update(r, Component)
         }
       }
-    })(typeof __webpack_exports__ !== 'undefined' ? __webpack_exports__.default : (module.exports.default || module.exports), "/")
+    })(typeof __webpack_exports__ !== 'undefined' ? __webpack_exports__.default : (module.exports.default || module.exports), "/careers")
   
 /* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__("./node_modules/webpack/buildin/harmony-module.js")(module)))
 
 /***/ })
 
 })
-//# sourceMappingURL=5.a5f32976311dba2bbdde.hot-update.js.map
+//# sourceMappingURL=5.67406eb0b1b557621bdf.hot-update.js.map

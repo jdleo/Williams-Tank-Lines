@@ -67,7 +67,7 @@ export default () => {
         Service
       </Header>
 
-      <Image.Group divided size="medium">
+      <Image.Group size="medium">
         <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg1.png" rounded/>
         <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg2.png" rounded/>
         <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/serviceImg3.png" rounded/>
