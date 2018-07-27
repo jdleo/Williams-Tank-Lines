@@ -135,8 +135,8 @@ class CareersComponent extends React.Component {
         <Layout>
           <Image src='https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careersImg.png'/>
           <Image.Group size='large' style={{'marginTop': '40px'}}>
-            <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/careersImg2.png" rounded/>
-            <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/careersImg3.png" rounded/>
+            <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/mechanicImg1.png" rounded/>
+            <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/mechanicImg2.png" rounded/>
           </Image.Group>
           <Container style={{'marginTop': '40px'}}>
             <div>
