@@ -1,4 +1,4 @@
-webpackHotUpdate(5,{
+webpackHotUpdate(4,{
 
 /***/ "./components/Footer.js":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -14,7 +14,7 @@ var _jsxFileName = "/Users/j/williams/components/Footer.js";
 
 
 /* harmony default export */ __webpack_exports__["a"] = (function () {
-  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["f" /* Message */], {
+  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["h" /* Message */], {
     style: {
       marginTop: '70px'
     },
@@ -22,12 +22,12 @@ var _jsxFileName = "/Users/j/williams/components/Footer.js";
       fileName: _jsxFileName,
       lineNumber: 8
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["f" /* Message */].Header, {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["h" /* Message */].Header, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["b" /* Header */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Header */], {
     as: "h4",
     color: "red",
     __source: {
@@ -39,7 +39,7 @@ var _jsxFileName = "/Users/j/williams/components/Footer.js";
       fileName: _jsxFileName,
       lineNumber: 14
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Icon */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["d" /* Icon */], {
     name: "map pin",
     __source: {
       fileName: _jsxFileName,
@@ -50,7 +50,7 @@ var _jsxFileName = "/Users/j/williams/components/Footer.js";
       fileName: _jsxFileName,
       lineNumber: 15
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Icon */], {
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["d" /* Icon */], {
     name: "phone",
     __source: {
       fileName: _jsxFileName,
@@ -75,7 +75,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
 
 
 /* harmony default export */ __webpack_exports__["a"] = (function () {
-  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["e" /* Menu */], {
+  return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["g" /* Menu */], {
     pointing: true,
     secondary: true,
     style: {
@@ -116,7 +116,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
       fileName: _jsxFileName,
       lineNumber: 19
     }
-  }, "EST. 1976")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["e" /* Menu */].Menu, {
+  }, "EST. 1976")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["g" /* Menu */].Menu, {
     position: "right",
     __source: {
       fileName: _jsxFileName,
@@ -134,7 +134,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
       fileName: _jsxFileName,
       lineNumber: 26
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["b" /* Header */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Header */], {
     as: "h4",
     color: "grey",
     __source: {
@@ -153,7 +153,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
       fileName: _jsxFileName,
       lineNumber: 34
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["b" /* Header */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Header */], {
     as: "h4",
     color: "grey",
     __source: {
@@ -172,7 +172,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
       fileName: _jsxFileName,
       lineNumber: 42
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["b" /* Header */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Header */], {
     as: "h4",
     color: "grey",
     __source: {
@@ -191,7 +191,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
       fileName: _jsxFileName,
       lineNumber: 50
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["b" /* Header */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1_semantic_ui_react__["c" /* Header */], {
     as: "h4",
     color: "grey",
     __source: {
@@ -200,6 +200,241 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
     }
   }, "Careers")))));
 });
+
+/***/ }),
+
+/***/ "./node_modules/semantic-ui-react/dist/es/elements/List/List.js":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_extends__ = __webpack_require__("./node_modules/semantic-ui-react/node_modules/@babel/runtime/helpers/extends.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_extends___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_extends__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__babel_runtime_helpers_classCallCheck__ = __webpack_require__("./node_modules/semantic-ui-react/node_modules/@babel/runtime/helpers/classCallCheck.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__babel_runtime_helpers_classCallCheck___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__babel_runtime_helpers_classCallCheck__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__babel_runtime_helpers_createClass__ = __webpack_require__("./node_modules/semantic-ui-react/node_modules/@babel/runtime/helpers/createClass.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__babel_runtime_helpers_createClass___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__babel_runtime_helpers_createClass__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__babel_runtime_helpers_possibleConstructorReturn__ = __webpack_require__("./node_modules/semantic-ui-react/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__babel_runtime_helpers_possibleConstructorReturn___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__babel_runtime_helpers_possibleConstructorReturn__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__babel_runtime_helpers_getPrototypeOf__ = __webpack_require__("./node_modules/semantic-ui-react/node_modules/@babel/runtime/helpers/getPrototypeOf.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__babel_runtime_helpers_getPrototypeOf___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__babel_runtime_helpers_getPrototypeOf__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__babel_runtime_helpers_inherits__ = __webpack_require__("./node_modules/semantic-ui-react/node_modules/@babel/runtime/helpers/inherits.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__babel_runtime_helpers_inherits___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__babel_runtime_helpers_inherits__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__babel_runtime_helpers_assertThisInitialized__ = __webpack_require__("./node_modules/semantic-ui-react/node_modules/@babel/runtime/helpers/assertThisInitialized.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__babel_runtime_helpers_assertThisInitialized___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6__babel_runtime_helpers_assertThisInitialized__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__babel_runtime_helpers_defineProperty__ = __webpack_require__("./node_modules/semantic-ui-react/node_modules/@babel/runtime/helpers/defineProperty.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__babel_runtime_helpers_defineProperty___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7__babel_runtime_helpers_defineProperty__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_lodash_map__ = __webpack_require__("./node_modules/lodash/map.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_lodash_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_8_lodash_map__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_lodash_invoke__ = __webpack_require__("./node_modules/lodash/invoke.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_lodash_invoke___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_9_lodash_invoke__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_classnames__ = __webpack_require__("./node_modules/classnames/index.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_classnames___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_10_classnames__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_prop_types__ = __webpack_require__("./node_modules/semantic-ui-react/node_modules/prop-types/index.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_11_prop_types__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_react__ = __webpack_require__("./node_modules/react/index.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_12_react__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__lib__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/lib/index.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__ListContent__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/List/ListContent.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__ListDescription__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/List/ListDescription.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__ListHeader__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/List/ListHeader.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__ListIcon__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/List/ListIcon.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__ListItem__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/List/ListItem.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__ListList__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/List/ListList.js");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * A list groups related content.
+ */
+
+var List =
+/*#__PURE__*/
+function (_Component) {
+  __WEBPACK_IMPORTED_MODULE_5__babel_runtime_helpers_inherits___default()(List, _Component);
+
+  function List() {
+    var _getPrototypeOf2;
+
+    var _temp, _this;
+
+    __WEBPACK_IMPORTED_MODULE_1__babel_runtime_helpers_classCallCheck___default()(this, List);
+
+    for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
+      args[_key] = arguments[_key];
+    }
+
+    return __WEBPACK_IMPORTED_MODULE_3__babel_runtime_helpers_possibleConstructorReturn___default()(_this, (_temp = _this = __WEBPACK_IMPORTED_MODULE_3__babel_runtime_helpers_possibleConstructorReturn___default()(this, (_getPrototypeOf2 = __WEBPACK_IMPORTED_MODULE_4__babel_runtime_helpers_getPrototypeOf___default()(List)).call.apply(_getPrototypeOf2, [this].concat(args))), __WEBPACK_IMPORTED_MODULE_7__babel_runtime_helpers_defineProperty___default()(__WEBPACK_IMPORTED_MODULE_6__babel_runtime_helpers_assertThisInitialized___default()(__WEBPACK_IMPORTED_MODULE_6__babel_runtime_helpers_assertThisInitialized___default()(_this)), "handleItemOverrides", function (predefinedProps) {
+      return {
+        onClick: function onClick(e, itemProps) {
+          __WEBPACK_IMPORTED_MODULE_9_lodash_invoke___default()(predefinedProps, 'onClick', e, itemProps);
+
+          __WEBPACK_IMPORTED_MODULE_9_lodash_invoke___default()(_this.props, 'onItemClick', e, itemProps);
+        }
+      };
+    }), _temp));
+  }
+
+  __WEBPACK_IMPORTED_MODULE_2__babel_runtime_helpers_createClass___default()(List, [{
+    key: "render",
+    value: function render() {
+      var _this2 = this;
+
+      var _this$props = this.props,
+          animated = _this$props.animated,
+          bulleted = _this$props.bulleted,
+          celled = _this$props.celled,
+          children = _this$props.children,
+          className = _this$props.className,
+          content = _this$props.content,
+          divided = _this$props.divided,
+          floated = _this$props.floated,
+          horizontal = _this$props.horizontal,
+          inverted = _this$props.inverted,
+          items = _this$props.items,
+          link = _this$props.link,
+          ordered = _this$props.ordered,
+          relaxed = _this$props.relaxed,
+          selection = _this$props.selection,
+          size = _this$props.size,
+          verticalAlign = _this$props.verticalAlign;
+      var classes = __WEBPACK_IMPORTED_MODULE_10_classnames___default()('ui', size, Object(__WEBPACK_IMPORTED_MODULE_13__lib__["A" /* useKeyOnly */])(animated, 'animated'), Object(__WEBPACK_IMPORTED_MODULE_13__lib__["A" /* useKeyOnly */])(bulleted, 'bulleted'), Object(__WEBPACK_IMPORTED_MODULE_13__lib__["A" /* useKeyOnly */])(celled, 'celled'), Object(__WEBPACK_IMPORTED_MODULE_13__lib__["A" /* useKeyOnly */])(divided, 'divided'), Object(__WEBPACK_IMPORTED_MODULE_13__lib__["A" /* useKeyOnly */])(horizontal, 'horizontal'), Object(__WEBPACK_IMPORTED_MODULE_13__lib__["A" /* useKeyOnly */])(inverted, 'inverted'), Object(__WEBPACK_IMPORTED_MODULE_13__lib__["A" /* useKeyOnly */])(link, 'link'), Object(__WEBPACK_IMPORTED_MODULE_13__lib__["A" /* useKeyOnly */])(ordered, 'ordered'), Object(__WEBPACK_IMPORTED_MODULE_13__lib__["A" /* useKeyOnly */])(selection, 'selection'), Object(__WEBPACK_IMPORTED_MODULE_13__lib__["B" /* useKeyOrValueAndKey */])(relaxed, 'relaxed'), Object(__WEBPACK_IMPORTED_MODULE_13__lib__["E" /* useValueAndKey */])(floated, 'floated'), Object(__WEBPACK_IMPORTED_MODULE_13__lib__["F" /* useVerticalAlignProp */])(verticalAlign), 'list', className);
+      var rest = Object(__WEBPACK_IMPORTED_MODULE_13__lib__["r" /* getUnhandledProps */])(List, this.props);
+      var ElementType = Object(__WEBPACK_IMPORTED_MODULE_13__lib__["q" /* getElementType */])(List, this.props);
+
+      if (!__WEBPACK_IMPORTED_MODULE_13__lib__["c" /* childrenUtils */].isNil(children)) {
+        return __WEBPACK_IMPORTED_MODULE_12_react___default.a.createElement(ElementType, __WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_extends___default()({}, rest, {
+          role: "list",
+          className: classes
+        }), children);
+      }
+
+      if (!__WEBPACK_IMPORTED_MODULE_13__lib__["c" /* childrenUtils */].isNil(content)) {
+        return __WEBPACK_IMPORTED_MODULE_12_react___default.a.createElement(ElementType, __WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_extends___default()({}, rest, {
+          role: "list",
+          className: classes
+        }), content);
+      }
+
+      return __WEBPACK_IMPORTED_MODULE_12_react___default.a.createElement(ElementType, __WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_extends___default()({}, rest, {
+        role: "list",
+        className: classes
+      }), __WEBPACK_IMPORTED_MODULE_8_lodash_map___default()(items, function (item) {
+        return __WEBPACK_IMPORTED_MODULE_18__ListItem__["a" /* default */].create(item, {
+          overrideProps: _this2.handleItemOverrides
+        });
+      }));
+    }
+  }]);
+
+  return List;
+}(__WEBPACK_IMPORTED_MODULE_12_react__["Component"]);
+
+__WEBPACK_IMPORTED_MODULE_7__babel_runtime_helpers_defineProperty___default()(List, "Content", __WEBPACK_IMPORTED_MODULE_14__ListContent__["a" /* default */]);
+
+__WEBPACK_IMPORTED_MODULE_7__babel_runtime_helpers_defineProperty___default()(List, "Description", __WEBPACK_IMPORTED_MODULE_15__ListDescription__["a" /* default */]);
+
+__WEBPACK_IMPORTED_MODULE_7__babel_runtime_helpers_defineProperty___default()(List, "Header", __WEBPACK_IMPORTED_MODULE_16__ListHeader__["a" /* default */]);
+
+__WEBPACK_IMPORTED_MODULE_7__babel_runtime_helpers_defineProperty___default()(List, "Icon", __WEBPACK_IMPORTED_MODULE_17__ListIcon__["a" /* default */]);
+
+__WEBPACK_IMPORTED_MODULE_7__babel_runtime_helpers_defineProperty___default()(List, "Item", __WEBPACK_IMPORTED_MODULE_18__ListItem__["a" /* default */]);
+
+__WEBPACK_IMPORTED_MODULE_7__babel_runtime_helpers_defineProperty___default()(List, "List", __WEBPACK_IMPORTED_MODULE_19__ListList__["a" /* default */]);
+
+__WEBPACK_IMPORTED_MODULE_7__babel_runtime_helpers_defineProperty___default()(List, "handledProps", ["animated", "as", "bulleted", "celled", "children", "className", "content", "divided", "floated", "horizontal", "inverted", "items", "link", "onItemClick", "ordered", "relaxed", "selection", "size", "verticalAlign"]);
+
+List.propTypes =  true ? {
+  /** An element type to render as (string or function). */
+  as: __WEBPACK_IMPORTED_MODULE_13__lib__["m" /* customPropTypes */].as,
+
+  /** A list can animate to set the current item apart from the list. */
+  animated: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.bool,
+
+  /** A list can mark items with a bullet. */
+  bulleted: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.bool,
+
+  /** A list can divide its items into cells. */
+  celled: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.bool,
+
+  /** Primary content. */
+  children: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.node,
+
+  /** Additional classes. */
+  className: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.string,
+
+  /** Shorthand for primary content. */
+  content: __WEBPACK_IMPORTED_MODULE_13__lib__["m" /* customPropTypes */].contentShorthand,
+
+  /** A list can show divisions between content. */
+  divided: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.bool,
+
+  /** An list can be floated left or right. */
+  floated: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.oneOf(__WEBPACK_IMPORTED_MODULE_13__lib__["b" /* SUI */].FLOATS),
+
+  /** A list can be formatted to have items appear horizontally. */
+  horizontal: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.bool,
+
+  /** A list can be inverted to appear on a dark background. */
+  inverted: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.bool,
+
+  /** Shorthand array of props for ListItem. */
+  items: __WEBPACK_IMPORTED_MODULE_13__lib__["m" /* customPropTypes */].collectionShorthand,
+
+  /** A list can be specially formatted for navigation links. */
+  link: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.bool,
+
+  /**
+   * onClick handler for ListItem. Mutually exclusive with children.
+   *
+   * @param {SyntheticEvent} event - React's original SyntheticEvent.
+   * @param {object} data - All item props.
+   */
+  onItemClick: __WEBPACK_IMPORTED_MODULE_13__lib__["m" /* customPropTypes */].every([__WEBPACK_IMPORTED_MODULE_13__lib__["m" /* customPropTypes */].disallow(['children']), __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.func]),
+
+  /** A list can be ordered numerically. */
+  ordered: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.bool,
+
+  /** A list can relax its padding to provide more negative space. */
+  relaxed: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.oneOfType([__WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.bool, __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.oneOf(['very'])]),
+
+  /** A selection list formats list items as possible choices. */
+  selection: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.bool,
+
+  /** A list can vary in size. */
+  size: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.oneOf(__WEBPACK_IMPORTED_MODULE_13__lib__["b" /* SUI */].SIZES),
+
+  /** An element inside a list can be vertically aligned. */
+  verticalAlign: __WEBPACK_IMPORTED_MODULE_11_prop_types___default.a.oneOf(__WEBPACK_IMPORTED_MODULE_13__lib__["b" /* SUI */].VERTICAL_ALIGNMENTS)
+} : {};
+/* harmony default export */ __webpack_exports__["a"] = (List);
+
+/***/ }),
+
+/***/ "./node_modules/semantic-ui-react/dist/es/elements/List/index.js":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__List__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/List/List.js");
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__List__["a"]; });
+
+
 
 /***/ }),
 
@@ -266,7 +501,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__collections_Grid_GridRow__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Grid/GridRow.js");
 /* unused harmony reexport GridRow */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__collections_Menu__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Menu/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_29__collections_Menu__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_29__collections_Menu__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__collections_Menu_MenuHeader__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Menu/MenuHeader.js");
 /* unused harmony reexport MenuHeader */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__collections_Menu_MenuItem__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Menu/MenuItem.js");
@@ -274,7 +509,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__collections_Menu_MenuMenu__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Menu/MenuMenu.js");
 /* unused harmony reexport MenuMenu */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__collections_Message__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Message/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_33__collections_Message__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_33__collections_Message__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__collections_Message_MessageContent__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Message/MessageContent.js");
 /* unused harmony reexport MessageContent */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__collections_Message_MessageHeader__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/collections/Message/MessageHeader.js");
@@ -306,23 +541,23 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_48__elements_Button_ButtonOr__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Button/ButtonOr.js");
 /* unused harmony reexport ButtonOr */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_49__elements_Container__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Container/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_49__elements_Container__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_49__elements_Container__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_50__elements_Divider__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Divider/index.js");
 /* unused harmony reexport Divider */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_51__elements_Flag__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Flag/index.js");
 /* unused harmony reexport Flag */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_52__elements_Header__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Header/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_52__elements_Header__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_52__elements_Header__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_53__elements_Header_HeaderContent__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Header/HeaderContent.js");
 /* unused harmony reexport HeaderContent */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_54__elements_Header_HeaderSubheader__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Header/HeaderSubheader.js");
 /* unused harmony reexport HeaderSubheader */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_55__elements_Icon__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Icon/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_55__elements_Icon__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_55__elements_Icon__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_56__elements_Icon_IconGroup__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Icon/IconGroup.js");
 /* unused harmony reexport IconGroup */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_57__elements_Image__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Image/index.js");
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_57__elements_Image__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_57__elements_Image__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_58__elements_Image_ImageGroup__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Image/ImageGroup.js");
 /* unused harmony reexport ImageGroup */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_59__elements_Input__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Input/index.js");
@@ -334,7 +569,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_62__elements_Label_LabelGroup__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/Label/LabelGroup.js");
 /* unused harmony reexport LabelGroup */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_63__elements_List__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/List/index.js");
-/* unused harmony reexport List */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_63__elements_List__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_64__elements_List_ListContent__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/List/ListContent.js");
 /* unused harmony reexport ListContent */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_65__elements_List_ListDescription__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/elements/List/ListDescription.js");
@@ -450,7 +685,7 @@ var _jsxFileName = "/Users/j/williams/components/Header.js";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_120__views_Advertisement__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/views/Advertisement/index.js");
 /* unused harmony reexport Advertisement */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_121__views_Card_Card__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/views/Card/Card.js");
-/* unused harmony reexport Card */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_121__views_Card_Card__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_122__views_Card_CardContent__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/views/Card/CardContent.js");
 /* unused harmony reexport CardContent */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_123__views_Card_CardDescription__ = __webpack_require__("./node_modules/semantic-ui-react/dist/es/views/Card/CardDescription.js");
@@ -867,13 +1102,14 @@ var _jsxFileName = "/Users/j/williams/pages/careers.js";
       fileName: _jsxFileName,
       lineNumber: 7
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["e" /* Image */], {
     src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careersImg.png",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Container */], {
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["e" /* Image */].Group, {
+    size: "large",
     style: {
       'marginTop': '40px'
     },
@@ -881,27 +1117,260 @@ var _jsxFileName = "/Users/j/williams/pages/careers.js";
       fileName: _jsxFileName,
       lineNumber: 9
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */].Group, {
-    size: "medium",
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["e" /* Image */], {
+    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/careersImg2.png",
+    rounded: true,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
     }
-  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
-    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/servicesImg2.png",
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["e" /* Image */], {
+    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/careersImg3.png",
     rounded: true,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
     }
-  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Image */], {
-    src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/servicesImg3.png",
-    rounded: true,
+  })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Container */], {
+    style: {
+      'marginTop': '40px'
+    },
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 12
+      lineNumber: 13
     }
-  }))));
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Card */].Group, {
+    centered: true,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Card */], {
+    fluid: true,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Card */].Content, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Card */].Header, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    }
+  }, "Driver Opportunities"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Card */].Meta, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span", {
+    className: "summary",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    }
+  }, "This position requires the loading, transporting, and delivering of petroleum products and operation of company equipment in a safe manner, complying with all state, federal, company and customer policies and procedures.")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Card */].Description, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Header */], {
+    as: "h4",
+    color: "grey",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23
+    }
+  }, "Job Description and Requirements"), "Night shift position starting time 5 PM to 5 AM (starting times may vary between terminals)", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26
+    }
+  }), "All shifts run on a twelve (12) hour shift basis (may vary from day to day)", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 27
+    }
+  }), "Weekly shifts schedule is five (5) days on, two (2) days off, and five (5) days on, three (3) days off.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28
+    }
+  }), "Straight pay. NO overtime", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
+    }
+  }), "Availability to work long hours, including weekends, holidays and nights Ability to work in all types of weather conditions", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 30
+    }
+  }), "Drug/Alcohol free", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 33
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Header */], {
+    as: "h4",
+    color: "grey",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 34
+    }
+  }, "Employment Criteria"), "The criteria stated below are minimum qualification levels for hiring commercial drivers by Williams Tank Lines.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 37
+    }
+  }), "Minimum Experience:", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 38
+    }
+  }), "Applicants must have (1) year of verifiable experience as a Class A Driver. Minimum of high school education completed is desirable but not mandatory in all applicants.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 40
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 42
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Header */], {
+    as: "h4",
+    color: "grey",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 43
+    }
+  }, "Qualifications"), "Class A Commercial Drivers License with hazardous materials and tanker endorsement (doubles/triples if in Nevada), with TSA clearance", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 46
+    }
+  }), "Must possess TWIC badge (Transportation Worker\u2019s Identification Credentials) ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 47
+    }
+  }), "Applicant must receive a 1 year minimum clearance on pre-employment physical and back evaluation", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 48
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 50
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Header */], {
+    as: "h4",
+    color: "grey",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 51
+    }
+  }, "Driving Record"), "Applicant must not have been convicted of a felony in the use of a motor vehicle. ", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 54
+    }
+  }), "No outstanding Failure to appear or Pay fines entries on their driving record.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 54
+    }
+  }), "No more than 1 moving violation conviction in the preceding 12 months and no more than 2 moving violation convictions in the past 36 months.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 56
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 58
+    }
+  }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Header */], {
+    as: "h4",
+    color: "grey",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 59
+    }
+  }, "Other Requirements"), "Applicants who have been convicted of any of the following violations may not be considered for employment:", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["f" /* List */], {
+    bulleted: true,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 63
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["f" /* List */].Item, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 64
+    }
+  }, "DWI/DUI"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["f" /* List */].Item, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 65
+    }
+  }, "RECKLESS OR CARELSS DRIVING"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["f" /* List */].Item, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 66
+    }
+  }, "HIT & RUN, (LEAVING THE SCENE OF AN ACCIDENT)"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["f" /* List */].Item, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 67
+    }
+  }, "SUSPENDED LICENSE AS A RESULT OF MOVING VIOLATION CONVICTIONS")), "No more than one preventable accident in the past three (3) years.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 69
+    }
+  }), "Applicant must provide a complete list of all states in which they have held drivers or commercial driver\u2019s licenses within the last three (3) years and the license numbers so that we can obtain a complete driving record check. Applicant must agree to obtain a new CDL issued from the state they are currently working", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 70
+    }
+  }), "in within thirty (30) days of employment with the company.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 71
+    }
+  }))), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Card */].Content, {
+    extra: true,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 74
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("a", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 75
+    }
+  }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Icon */], {
+    name: "user",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 76
+    }
+  }), "22 Friends"))))));
 });
     (function (Component, route) {
       if(!Component) return
@@ -926,4 +1395,4 @@ var _jsxFileName = "/Users/j/williams/pages/careers.js";
 /***/ })
 
 })
-//# sourceMappingURL=5.67406eb0b1b557621bdf.hot-update.js.map
+//# sourceMappingURL=4.5fb17bdb1ef60e54f17e.hot-update.js.map
