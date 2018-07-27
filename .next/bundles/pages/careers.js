@@ -42265,7 +42265,7 @@ function (_React$Component) {
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 142
+            lineNumber: 143
           }
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */], {
           animated: true,
@@ -42276,19 +42276,19 @@ function (_React$Component) {
           },
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 143
+            lineNumber: 144
           }
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           visible: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 144
+            lineNumber: 145
           }
         }, "Driver Opportunites"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           hidden: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 145
+            lineNumber: 146
           }
         }, "View opportunity")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */], {
           animated: "fade",
@@ -42299,19 +42299,19 @@ function (_React$Component) {
           },
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 149
+            lineNumber: 150
           }
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           hidden: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 150
+            lineNumber: 151
           }
         }, "View opportunity"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           visible: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 151
+            lineNumber: 152
           }
         }, "Mechanic Opportunites")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */], {
           animated: true,
@@ -42322,19 +42322,19 @@ function (_React$Component) {
           },
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 155
+            lineNumber: 156
           }
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           visible: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 156
+            lineNumber: 157
           }
         }, "Clerical Opportunites"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           hidden: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 157
+            lineNumber: 158
           }
         }, "View opportunity"))), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Card */].Group, {
           centered: true,
@@ -42343,19 +42343,242 @@ function (_React$Component) {
           },
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 160
+            lineNumber: 161
           }
-        }))),
-        clerical: __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__components_Layout__["a" /* default */], {
+        }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Card */], {
+          fluid: true,
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 162
+          }
+        }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Card */].Content, {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 163
+          }
+        }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Card */].Header, {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 164
+          }
+        }, "Mechanic Opportunities"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Card */].Meta, {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 165
+          }
+        }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("span", {
+          className: "summary",
           __source: {
             fileName: _jsxFileName,
             lineNumber: 166
+          }
+        }, "This position is primarily responsible for maintenance and repairs on heavy duty big rig diesel trucks.")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Card */].Description, {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 168
+          }
+        }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 169
+          }
+        }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Header */], {
+          as: "h4",
+          color: "grey",
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 170
+          }
+        }, "General Responsibilities"), "Maintain, troubleshoot, and repair diesel engines. For example air conditioning system, brake system, overhead valve adjustments, etc", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 173
+          }
+        }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 175
+          }
+        }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Header */], {
+          as: "h4",
+          color: "grey",
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 176
+          }
+        }, "Skills and Requirements"), "Must have own tools", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 179
+          }
+        }), "Must have experience in: brake inspections, air condition system, overhead valve adjustment.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 181
+          }
+        }), "Proper and safe use of basic hand and power tools.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 182
+          }
+        }), "Ability to work efficiently with minimal supervision, and function well as a team member.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 184
+          }
+        }), "Must be able to speak, read, write, and comprehend so as to ensure effective communication across all lines of employees, vendors, and customers.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 186
+          }
+        }), " General computer skills.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 186
+          }
+        }), "Must be able to operate a motor vehicle.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 187
+          }
+        }), "Must possess and maintain a valid driver's license during the course of employment - Class A preferred but not required.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 188
+          }
+        }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 190
+          }
+        }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Header */], {
+          as: "h4",
+          color: "grey",
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 191
+          }
+        }, "Specialized Skills Required"), "Must be able to climb on and around diesel truck equipment.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 194
+          }
+        }), "Must be able to sit, kneel, walk, lift (up to 50 pounds) and carry for extended periods.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 196
+          }
+        }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 198
+          }
+        }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Header */], {
+          as: "h4",
+          color: "grey",
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 199
+          }
+        }, "Job Conditions / Work Environment"), "Monday through Friday (working every other weekend)", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 202
+          }
+        }), "Road call may be required", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 203
+          }
+        }), "Occasional travel to outside terminal locations may be required", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 204
+          }
+        }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 206
+          }
+        }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["d" /* Header */], {
+          as: "h4",
+          color: "grey",
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 207
+          }
+        }, "Education / Work Experience"), "4 years Journeyman/Equipment Maintenance experience required", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 210
+          }
+        }), "High School diploma required", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 211
+          }
+        }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 213
+          }
+        }), "Williams Tank Lines is a drug free work place.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 214
+          }
+        }), "Employment is contingent satisfactorily passing pre-employment exam and drug testing is required.", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 215
+          }
+        }))), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Card */].Content, {
+          extra: true,
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 219
+          }
+        }, "Send Resume and 3 year DMV printout along with pre-application questionaire to:", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 220
+          }
+        }), "Fax: 800-417-8036", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 221
+          }
+        }), "Email: employment@williamstanklines.com", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 222
+          }
+        }), "For Questions call:", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 223
+          }
+        }), "Phone: 209-944-5613 ext. 1000", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 224
+          }
+        }), "Please provide email address or phone number where you can be contacted", __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("br", {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 225
+          }
+        })))))),
+        clerical: __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_1__components_Layout__["a" /* default */], {
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 234
           }
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["f" /* Image */], {
           src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careersImg.png",
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 167
+            lineNumber: 235
           }
         }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["f" /* Image */].Group, {
           size: "large",
@@ -42364,21 +42587,21 @@ function (_React$Component) {
           },
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 168
+            lineNumber: 236
           }
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["f" /* Image */], {
-          src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/careersImg2.png",
+          src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/clericalImg1.png",
           rounded: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 169
+            lineNumber: 237
           }
         }), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["f" /* Image */], {
-          src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/careersImg3.png",
+          src: "https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/clericalImg2.png",
           rounded: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 170
+            lineNumber: 238
           }
         })), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["c" /* Container */], {
           style: {
@@ -42386,12 +42609,12 @@ function (_React$Component) {
           },
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 172
+            lineNumber: 240
           }
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 173
+            lineNumber: 241
           }
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */], {
           animated: true,
@@ -42402,19 +42625,19 @@ function (_React$Component) {
           },
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 174
+            lineNumber: 242
           }
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           visible: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 175
+            lineNumber: 243
           }
         }, "Driver Opportunites"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           hidden: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 176
+            lineNumber: 244
           }
         }, "View opportunity")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */], {
           animated: "fade",
@@ -42425,19 +42648,19 @@ function (_React$Component) {
           },
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 180
+            lineNumber: 248
           }
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           hidden: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 181
+            lineNumber: 249
           }
         }, "View opportunity"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           visible: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 182
+            lineNumber: 250
           }
         }, "Mechanic Opportunites")), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */], {
           animated: true,
@@ -42448,19 +42671,19 @@ function (_React$Component) {
           },
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 186
+            lineNumber: 254
           }
         }, __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           visible: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 187
+            lineNumber: 255
           }
         }, "Clerical Opportunites"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["a" /* Button */].Content, {
           hidden: true,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 188
+            lineNumber: 256
           }
         }, "View opportunity"))), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["b" /* Card */].Group, {
           centered: true,
@@ -42469,14 +42692,14 @@ function (_React$Component) {
           },
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 191
+            lineNumber: 259
           }
-        })))
+        }, "clerical")))
       };
       return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 199
+          lineNumber: 268
         }
       }, careers[this.state.currentCareer]);
     }

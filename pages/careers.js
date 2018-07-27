@@ -139,6 +139,7 @@ class CareersComponent extends React.Component {
             <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/mechanicImg2.png" rounded/>
           </Image.Group>
           <Container style={{'marginTop': '40px'}}>
+
             <div>
               <Button animated onClick={() => {this.setState({'currentCareer':'driver'})}}>
                 <Button.Content visible>Driver Opportunites</Button.Content>
@@ -158,6 +159,73 @@ class CareersComponent extends React.Component {
               </Button>
             </div>
             <Card.Group centered style={{'marginTop':'40px'}}>
+              <Card fluid>
+                <Card.Content>
+                  <Card.Header>Mechanic Opportunities</Card.Header>
+                  <Card.Meta>
+                    <span className='summary'>This position is primarily responsible for maintenance and repairs on heavy duty big rig diesel trucks.</span>
+                  </Card.Meta>
+                  <Card.Description>
+                    <br/>
+                    <Header as='h4' color='grey'>
+                      General Responsibilities
+                    </Header>
+                    Maintain, troubleshoot, and repair diesel engines. For example air conditioning system, brake system, overhead valve adjustments, etc<br/>
+
+                    <br/>
+                    <Header as='h4' color='grey'>
+                      Skills and Requirements
+                    </Header>
+                    Must have own tools<br/>
+                    Must have experience in: brake inspections, air condition system, overhead
+                    valve adjustment.<br/>
+                    Proper and safe use of basic hand and power tools.<br/>
+                    Ability to work efficiently with minimal supervision, and function well as a team
+                    member.<br/>
+                    Must be able to speak, read, write, and comprehend so as to ensure effective
+                    communication across all lines of employees, vendors, and customers.<br/> General computer skills.<br/>
+                    Must be able to operate a motor vehicle.<br/>
+                    Must possess and maintain a valid driver's license during the course of employment - Class A preferred but not required.<br/>
+
+                    <br/>
+                    <Header as='h4' color='grey'>
+                      Specialized Skills Required
+                    </Header>
+                    Must be able to climb on and around diesel truck equipment.<br/>
+                    Must be able to sit, kneel, walk, lift (up to 50 pounds) and carry for extended
+                    periods.<br/>
+
+                    <br/>
+                    <Header as='h4' color='grey'>
+                      Job Conditions / Work Environment
+                    </Header>
+                    Monday through Friday (working every other weekend)<br/>
+                    Road call may be required<br/>
+                    Occasional travel to outside terminal locations may be required<br/>
+
+                    <br/>
+                    <Header as='h4' color='grey'>
+                      Education / Work Experience
+                    </Header>
+                    4 years Journeyman/Equipment Maintenance experience required<br/>
+                  High School diploma required<br/>
+
+                    <br/>
+                    Williams Tank Lines is a drug free work place.<br/>
+                    Employment is contingent satisfactorily passing pre-employment exam and drug testing is required.<br/>
+
+                  </Card.Description>
+                </Card.Content>
+                <Card.Content extra>
+                  Send Resume and 3 year DMV printout along with pre-application questionaire to:<br/>
+                  Fax: 800-417-8036<br/>
+                  Email: employment@williamstanklines.com<br/>
+                  For Questions call:<br/>
+                  Phone: 209-944-5613 ext. 1000<br/>
+                  Please provide email address or phone number where you can be contacted<br/>
+
+                </Card.Content>
+              </Card>
             </Card.Group>
           </Container>
         </Layout>
@@ -166,8 +234,8 @@ class CareersComponent extends React.Component {
         <Layout>
           <Image src='https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careersImg.png'/>
           <Image.Group size='large' style={{'marginTop': '40px'}}>
-            <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/careersImg2.png" rounded/>
-            <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/careersImg3.png" rounded/>
+            <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/clericalImg1.png" rounded/>
+            <Image src="https://raw.githubusercontent.com/jdleo/Williams-Tank-Lines/master/assets/careers/clericalImg2.png" rounded/>
           </Image.Group>
           <Container style={{'marginTop': '40px'}}>
             <div>
@@ -189,6 +257,7 @@ class CareersComponent extends React.Component {
               </Button>
             </div>
             <Card.Group centered style={{'marginTop':'40px'}}>
+              clerical
             </Card.Group>
           </Container>
         </Layout>
