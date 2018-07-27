@@ -1,7 +1,7 @@
 module.exports =
 __NEXT_REGISTER_PAGE('/terminals', function() {
           var comp =
-      webpackJsonp([6],{
+      webpackJsonp([4],{
 
 /***/ "./components/Footer.js":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {

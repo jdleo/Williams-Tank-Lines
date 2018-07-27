@@ -1,7 +1,7 @@
 module.exports =
 __NEXT_REGISTER_PAGE('/', function() {
           var comp =
-      webpackJsonp([4],{
+      webpackJsonp([5],{
 
 /***/ "./components/Footer.js":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -41835,6 +41835,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       lineNumber: 66
     }
   }, "Service"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["e" /* Image */].Group, {
+    divided: true,
     size: "medium",
     __source: {
       fileName: _jsxFileName,
@@ -41931,7 +41932,7 @@ module.exports = routes;
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("./pages/index.js");
@@ -41939,7 +41940,7 @@ module.exports = __webpack_require__("./pages/index.js");
 
 /***/ })
 
-},[3])
+},[4])
           return { page: comp.default }
         })
       ;

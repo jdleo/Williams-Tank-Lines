@@ -1,4 +1,4 @@
-webpackHotUpdate(4,{
+webpackHotUpdate(5,{
 
 /***/ "./components/Footer.js":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -1046,6 +1046,7 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
       lineNumber: 66
     }
   }, "Service"), __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_2_semantic_ui_react__["e" /* Image */].Group, {
+    divided: true,
     size: "medium",
     __source: {
       fileName: _jsxFileName,
@@ -1134,4 +1135,4 @@ var description2 = [__WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
 /***/ })
 
 })
-//# sourceMappingURL=4.3ecc656e144644cdad67.hot-update.js.map
+//# sourceMappingURL=5.a5f32976311dba2bbdde.hot-update.js.map
